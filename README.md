@@ -1,6 +1,6 @@
 # angioFFR for Windows
 
-Current build: angioFFR 0.55.5, which fixes Google sign-in in the desktop app and retains the desktop save/export fix for JSON studies, PDF reports, and CSV files.
+Current build: angioFFR 0.55.6, which fixes cloud backup and recovery in the desktop app by routing Cloud Storage through the local desktop server. Google sign-in and the desktop save/export fix from 0.55.4–0.55.5 are retained.
 
 Run the `.exe` installer to install angioFFR for the current user. The installer is a 64-bit Windows build and allows you to choose the installation folder.
 
