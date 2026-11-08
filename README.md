@@ -1,6 +1,6 @@
 # angioFFR for Windows
 
-Current build: angioFFR 0.55.4, which fixes the desktop save dialog so JSON studies, PDF reports, and CSV exports are written after saving.
+Current build: angioFFR 0.55.5, which fixes Google sign-in in the desktop app and retains the desktop save/export fix for JSON studies, PDF reports, and CSV files.
 
 Run the `.exe` installer to install angioFFR for the current user. The installer is a 64-bit Windows build and allows you to choose the installation folder.
 
